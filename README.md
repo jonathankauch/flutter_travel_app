@@ -1,6 +1,8 @@
 # flutter_travel_app
 
-A new Flutter project.
+Small `flutter` project following this [tutorial](https://www.youtube.com/watch?v=QM8xTUd-l2Y)
+
+![Screen+Recording+2021-05-17+at+08 14 54+PM](https://user-images.githubusercontent.com/7169939/118537009-b363ed00-b74c-11eb-8940-842246a35b22.gif)
 
 ## Getting Started
 
